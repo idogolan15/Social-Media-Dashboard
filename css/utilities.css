@@ -1,0 +1,104 @@
+.text-primary {
+  color:hsl(228, 34%, 66%);
+}
+
+.flex-items {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.redtxt-primary {
+  color: red;
+}
+
+.item {
+  padding: 20px 70px;
+  margin: 20px;
+  border-radius: 5px;
+  background-color:hsl(228, 28%, 20%);
+  color: #fff;
+}
+
+.item2 {
+  padding: 20px 20px;
+  margin: 20px;
+  border-radius: 5px;
+  background-color:hsl(228, 28%, 20%);
+  color: #fff;
+}
+
+.large-padd {
+  padding: 0 30px;
+  margin: 0 100px;
+}
+
+.second-primary {
+  color:hsl(228, 34%, 66%);
+  font-size:10px;
+  font-stretch: condensed;
+}
+
+.green-primary {
+  color: hsl(163, 72%, 41%);
+}
+
+.border-blue {
+  border-top: hsl(208, 92%, 53%) 4px solid;
+}
+
+.border-instagram {
+  border-top:hsl(37, 97%, 70%) 4px solid;
+}
+
+.border-red {
+  border-top: red 4px solid;
+}
+
+/* Flex grid */
+.flex-grid .row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.flex-grid .column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.section-padding {
+  padding: 10px 145px;
+}
+
+.row-up {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+
+.row-down {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fa-facebook-official {
+  color: hsl(208, 92%, 53%);
+}
+
+.fa-twitter {
+  color: hsl(203, 89%, 53%);
+}
+
+.fa-instagram {
+  color: hsl(37, 97%, 70%);
+}
+
+.fa-youtube-play {
+  color: hsl(348, 97%, 39%);
+}
+
+
+

@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.2;
+  background-color: hsl(232, 19%, 15%); ;
+}
+
+.navbar {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  background: hsl(232, 19%, 15%);
+  height: 100px;
+  width: 100%;
+  padding: 0 150px;
+}
+
+.social-media h1 {
+  font-size: 20px;
+}
+
+.social-media h4 {
+  font-size: 12px;
+  padding: 5px;
+}
+
+.social h3 {
+  font-size: 14px;
+  padding-right: 100px;
+}
+
+/* Large */
+.large {
+  background-color: hsl(232, 19%, 15%);
+}
+
+.large h4 {
+  font-size: 12px;
+  padding: 15px 0;
+}
+
+.large h2 {
+  font-size: 45px;
+  color: #fff;
+}
+
+.item:hover {
+  opacity: 0.9;
+}
+
+.grid {
+  height: 290px;
+  background: hsl(230, 17%, 14%);
+}
+
+.grid .section-header h2 {
+  font-size: 20px;
+  color: #fff;
+}
+
+.grid h4 {
+  font-size: 12px;
+}
+
+.grid h2 {
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
